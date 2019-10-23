@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">CommonDisease</string>
+
+    <string-array name="Disease_Name">
+        <item>Cholera(কলেরা) </item>
+        <item>Maleria(ম্যালেরিয়া) </item>
+        <item>Jaundice(জন্ডিস) </item>
+        <item>Chikunguya(চিকুনগুনিয়া) </item>
+        <item>Diarrhoea(ডায়রিয়া) </item>
+        <item>Fever(জ্বর) </item>
+        <item>Tifoyed(টাইফয়েড)</item>
+        <item>Blood Pressure (রক্তচাপ) </item>
+        <item>Headache(মাথা-ব্যাথা)</item>
+        <item>Allergy(এলার্জি)</item>
+        <item>Tuberculosis (যক্ষা) </item>
+
+
+    </string-array>
+
+    <string name="lebel">Common Disease</string>
+
+
+    <string name="admin">
+        \n
+        \n
+        Developed By::-
+
+        \n
+        Sadia Jamal.
+        \n
+        Dept Of Computer Science and Engineering.
+        \n
+        Daffodil International University.
+        \n
+        Email: sadia15-8084@diu.edu.bd
+
+
+
+    </string>
+
+
+    <string name="welcome">I am trying to provide some information of Common Diseases For your Better Health</string>
+
+    <string name="Disease_1">  Name of the disease: Cholera\n
+        \n
+    Symptoms: 	Watery diarrhea,Rice-water stools,Fishy odor to stools,Vomiting,Rapid heart rate etc.\n
+        \n
+        Primary treatment: Oral rehydration salts (ORS), Oral rehydration salts (amount in first four hours), IV drips of Ringer Lactate or, if not available, normal saline and oral rehydration salts.
+         \n
+        \n
+        Medicines:  Tetracycline (Sumycin),Doxycycline,Furazolidone (Furoxone),Erythromycin,Azithromycin (Zithromax),Sulfamethoxazole/trimethoprim (Bactrim, Septra),Ampicillin
+
+
+    </string>
+    <string name="Disease_2"> Name of the disease: Malaria\n
+        \n
+    Symptoms: 	shaking chills that can range from moderate to severe,high fever,profuse sweating,headache,nausea,vomiting,abdominal pain,diarrhea,anemia,muscle pain,convulsions
+.\n
+        \n
+        Primary treatment:  The type (species) of the infecting parasite.The area where the infection was acquired and its drug-resistance status.The clinical status of the patient.Any accompanying illness or condition
+
+         \n
+        \n
+        Medicines:  Chloroquine,Atovaquone-proguanil (Malarone®),Artemether-lumefantrine (Coartm®),Mefloquine,Quinine,Doxycycline,Clindamycin,Tetracycline
+
+</string>
+    <string name="Disease_3"> \n
+        Name of the disease: Jaundice\n
+        \n
+    Symptoms: 	A yellow tinge to the skin and the whites of the eyes, normally starting at the head and spreading down the body
+pale stools
+dark urine
+itchiness
+Accompanying symptoms of jaundice resulting from low bilirubin levels include:
+fatigue
+abdominal pain
+weight loss
+vomiting
+fever
+pale stools
+dark urine
+
+        \n
+        \n
+        Primary treatment: Anemia-induced jaundice may be treated by boosting the amount of iron in the blood by either taking iron supplements or eating more iron-rich foods. Iron supplements are available for purchase online.
+Hepatitis-induced jaundice requires antiviral or steroid medications.
+Doctors can treat obstruction-induced jaundice by surgically removing the obstruction.
+
+         \n
+        \n
+        Medicines:   Jaundice caused by drugs/medications/toxins requires discontinuation of the offending agent. In cases of intentional or unintentional acetaminophen (Tylenol) overdose, the antidote N-acetylcysteine (Mucomyst) may be required.
+Various medications may be used to treat the conditions leading to jaundice, such as steroids in the treatment of some autoimmune disorders. Certain patients with cirrhosis, for example, may require treatment with diuretics and lactulose.
+
+
+    </string>
+    <string name="Disease_4">
+        \n
+     Name of the disease: Chikungunya
+        \n
+        \n
+        Symptoms:  Most people infected with chikungunya virus will develop some symptoms.
+Symptoms usually begin 3–7 days after being bitten by an infected mosquito.
+The most common symptoms are fever and joint pain.
+Other symptoms may include headache, muscle pain, joint swelling, or rash.
+Chikungunya disease does not often result in death, but the symptoms can be severe and disabling.
+       \n
+        \n
+         Primary Treatment:   Get plenty of rest.Drink fluids to prevent dehydration.Take medicine such as acetaminophe or paracetamol to reduce fever and pain.Do not take aspirin and other non-steroidal anti-inflammatory drugs.
+    \n
+        \n
+        Medicines:  There is no vaccine to prevent or medicine to treat chikungunya virus.
+
+
+    </string>
+    <string name="Disease_5">
+\n
+        Name of the Disease: Diarrhoea
+        \n
+        \n
+        Symptoms: Abdominal cramps,abdominal pains,urgency to go to the toilet,frequent passing of loose, watery faeces,nausea,vomiting.
+  \n
+        \n
+        Primary Treatment:  Plenty of fluids to prevent dehydration.oral rehydration drinks to replace lost salts and minerals. These drinks are available from pharmacies. An alternative is one part unsweetened pure fruit juice diluted with four parts of water.Intravenous replacement of fluids in severe cases.Medications such as antibiotics and anti-nausea drugs. Treatment for any underlying condition, such as inflammatory bowel disease.
+\n
+        \n
+        Medicines:  Loperamide; and
+Diphenoxylate and atropine.
+
+
+    </string>
+    <string name="Disease_6">
+        \n
+        Name of the Disease: Fever
+        \n
+        Symptoms: Temperature greater than 100.4 F (38 C) in adults and children,Shivering, shaking, and chills,Rapid heart rate and/or palpitations,Skin flushing or hot skin,Feeling faint, dizzy, or lightheaded.
+ \n
+        \n
+        Primary Treatment:  An individual with a fever should be kept comfortable and not overdressed. Overdressing can cause the temperature to rise further. Tepid water (85 F [30 C]) baths or sponge baths are a home remedy that may help bring down a fev This is a common misconception..
+\n
+        \n
+        Medicines:  Acetaminophen,Ibuprofen,Naproxen is another nonsteroidal anti-inflammatory drug)
+    </string>
+
+    <string name="Disease_7">
+        Name of the Diseases: Typhoid
+        \n
+        \n
+        Symptoms:   poor appetite;abdominal pain and peritonitis;headaches;generalized aches and pains;high fever, often up to 104 F;Intestinal bleeding or perforation (after two to three weeks of the disease);
+diarrhea or constipation.
+        \n
+        Primary Treatment: The only effective treatment for typhoid is antibiotics. The most commonly used are ciprofloxacin ,it is important to rehydrate by drinking adequate water.In more severe cases.
+\n
+        \n
+        Medicines: This is impacting the choice of drugs available to treat typhoid. In recent years, for example, typhoid has become resistant to trimethoprim-sulfamethoxazole and ampicillin.
+
+
+
+    </string>
+
+
+    <string name="Disease_8">
+        \n
+        Name of the Disease: Blood Pressure
+        \n
+        \n
+        Symptoms: Blood spots in the eyes,Facial flushing,Dizziness
+\n
+        \n
+        Primary Treatment: Angiotensin converting enzyme,benazepril,captopril,Relax blood vessels by blocking the formation of a natural chemical that narrows blood vessels
+        \n
+        \n
+        Medicines:  Thiazide diuretics,Angiotensin converting enzyme,benazepril,captopril
+
+
+    </string>
+
+
+
+    <string name="Disease_9">
+\n
+        Name of the Disease: Headache
+        \n
+        \n
+        Symptoms:  Aching head pain,Tenderness on your scalp, Neck and shoulder muscles
+        \n
+        Primary Treatment:   The most common ways of treating headaches are rest and pain relief medication
+        \n
+        \n
+        Medicines:  Aspirin, ibuprofen (Advil, Motrin IB, others) and naproxen (Aleve)
+Prescription medications include naproxen (Naprosyn), indomethacin (Indocin) and ketorolac (Ketorolac Tromethamine).
+
+
+    </string>
+
+    <string name="Disease_10">
+        \n
+        Name of the Disease: Allergy
+        \n
+        \n
+        Symptoms: sneezing and an itchy, runny or blocked nose,itchy, red, watering eyes,wheezing, chest tightness, shortness of breath and a cough,a raised, itchy, red rash (hives),swollen lips, tongue, eyes or face
+\n
+        \n
+        Primary Treatment:  Most minor allergy symptoms can be treated with antihistamines, corticosteroids, or decongestants.Saline nasal rinses can be used for congestion-related allergy symptoms.
+\n
+        \n
+        Medicines: Cetirizine,fexofenadine,Desloratadine,clemastine,chlorpheniramine
+
+
+    </string>
+
+    <string name="Disease_11">
+\n
+        Name of the Disease: Tuberculosis
+        \n
+        \n
+        Symptoms: Coughing that lasts three or more weeks,Coughing up blood,Chest pain, or pain with breathing or coughing,Unintentional weight loss,Fatigue,Fever,Night sweats,Chills
+ \n
+        \n
+        Medicines: \n
+           Isoniazid \n
+           Rifampicin \n
+          Pyyrazinamide \n
+           Ethambutol \n
+
+
+
+    </string>
+
+</resources>
